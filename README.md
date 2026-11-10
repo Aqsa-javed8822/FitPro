@@ -1,6 +1,6 @@
 # FitPro
 Responsive fitness watches website built with HTML and CSS
 
-## Responsive Homepage
+## Homepage
 
 ![Home Page Preview](./homefit.png)
